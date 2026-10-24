@@ -1,0 +1,22 @@
+# Dataset tho dung luong lon (>800 MB, vuot gioi han 100 MB cua GitHub)
+dblp.v8/
+*.txt
+!requirements.txt
+
+# Python cache & virtual environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# File tam thoi
+*.tmp
+*.log
