@@ -1,0 +1,120 @@
+paper_id,year,authors,references
+P_2003_001,2003,David Nguyen|Alice Chen|Iris Gomez|Hank Miller,
+P_2003_002,2003,Eva Rossi|David Nguyen,
+P_2003_003,2003,Rita Flores|Carla Santos|Nina Patel|Bob Kumar,
+P_2003_004,2003,Carla Santos|Grace Park,
+P_2003_005,2003,Quentin Brooks|Alice Chen,
+P_2003_006,2003,Grace Park|Rita Flores|Nina Patel|Hank Miller,
+P_2003_007,2003,Sam Lee|Iris Gomez|Alice Chen,
+P_2003_008,2003,Nina Patel|Khan Ali,
+P_2003_009,2003,Eva Rossi|Grace Park|Khan Ali,
+P_2003_010,2003,Carla Santos|Ming Zhou,
+P_2003_011,2003,Laura Becker|Tara Wilson,
+P_2003_012,2003,Iris Gomez|Bob Kumar|Oscar Silva|David Nguyen,
+P_2003_013,2003,Carla Santos|Rita Flores|Jack Turner,
+P_2003_014,2003,Tara Wilson|Laura Becker|Grace Park|Carla Santos,
+P_2003_015,2003,Hank Miller|Jack Turner,
+P_2003_016,2003,Hank Miller|David Nguyen,
+P_2003_017,2003,Iris Gomez|Oscar Silva|Laura Becker,
+P_2004_018,2004,Laura Becker|Tara Wilson,P_2003_009
+P_2004_019,2004,Carla Santos|Frank Lin|Rita Flores|Hank Miller,P_2003_015
+P_2004_020,2004,Iris Gomez|Rita Flores|Hank Miller,P_2003_002|P_2003_008
+P_2004_021,2004,Khan Ali|Ming Zhou,P_2003_003|P_2003_007
+P_2004_022,2004,Khan Ali|Grace Park|Priya Nair|Ming Zhou,P_2003_005|P_2003_009|P_2003_005
+P_2004_023,2004,Rita Flores|Tara Wilson,P_2003_014|P_2003_013
+P_2004_024,2004,Hank Miller|Eva Rossi|Quentin Brooks,P_2003_003|P_2003_002|P_2003_004
+P_2004_025,2004,Frank Lin|Nina Patel,
+P_2004_026,2004,Ming Zhou|Oscar Silva|Quentin Brooks,P_2003_001|P_2003_004
+P_2004_027,2004,Rita Flores|Iris Gomez|Khan Ali|David Nguyen,P_2003_014|P_2003_006
+P_2004_028,2004,Alice Chen|Iris Gomez|Quentin Brooks,P_2003_017
+P_2004_029,2004,Jack Turner|Quentin Brooks,P_2003_005
+P_2004_030,2004,Frank Lin|Rita Flores|Quentin Brooks,
+P_2004_031,2004,Khan Ali|Priya Nair|Alice Chen|David Nguyen,P_2003_010|P_2003_008
+P_2004_032,2004,Hank Miller|Sam Lee,
+P_2004_033,2004,Priya Nair|Carla Santos,P_2003_005
+P_2004_034,2004,Priya Nair|Rita Flores|Frank Lin|Iris Gomez,P_2003_007|P_2003_007|P_2003_010
+P_2005_035,2005,Laura Becker|Oscar Silva|Quentin Brooks,P_2003_008|P_2003_016|P_2003_015
+P_2005_036,2005,Khan Ali|Alice Chen,P_2003_015
+P_2005_037,2005,Carla Santos|Bob Kumar,P_2003_005
+P_2005_038,2005,Khan Ali|Carla Santos,P_2004_018
+P_2005_039,2005,Priya Nair|Grace Park|Rita Flores|Eva Rossi,P_2003_016|P_2004_031|P_2004_027
+P_2005_040,2005,David Nguyen|Tara Wilson,P_2004_023|P_2004_028|P_2004_027
+P_2005_041,2005,Bob Kumar|David Nguyen|Tara Wilson,P_2004_022|P_2003_007|P_2003_016
+P_2005_042,2005,Grace Park|Rita Flores,P_2003_009|P_2004_028|P_2003_012
+P_2005_043,2005,Oscar Silva|Hank Miller|Carla Santos,P_2003_007|P_2003_004|P_2003_001
+P_2005_044,2005,Hank Miller|Frank Lin,P_2004_032|P_2004_031|P_2003_014
+P_2005_045,2005,Bob Kumar|Frank Lin|Ming Zhou,
+P_2005_046,2005,Iris Gomez|Oscar Silva|Jack Turner,P_2004_032|P_2003_010|P_2003_013
+P_2005_047,2005,Grace Park|Bob Kumar|Rita Flores,
+P_2005_048,2005,Khan Ali|Bob Kumar|Sam Lee|Priya Nair,P_2003_004
+P_2005_049,2005,Carla Santos|Frank Lin|Tara Wilson|Rita Flores,P_2004_026
+P_2005_050,2005,Sam Lee|Hank Miller,
+P_2005_051,2005,Carla Santos|Nina Patel|Quentin Brooks|Khan Ali,P_2003_014|P_2004_021
+P_2006_052,2006,Iris Gomez|Ming Zhou,P_2005_043
+P_2006_053,2006,Jack Turner|Oscar Silva|Khan Ali|Carla Santos,
+P_2006_054,2006,Tara Wilson|Sam Lee|David Nguyen,
+P_2006_055,2006,Grace Park|Quentin Brooks|Iris Gomez|Eva Rossi,P_2003_005|P_2003_016
+P_2006_056,2006,Jack Turner|Frank Lin|Oscar Silva,P_2005_040|P_2005_042
+P_2006_057,2006,Alice Chen|Rita Flores|Jack Turner|David Nguyen,P_2003_017
+P_2006_058,2006,David Nguyen|Rita Flores,P_2004_018
+P_2006_059,2006,Tara Wilson|Grace Park|Khan Ali,P_2005_044
+P_2006_060,2006,Iris Gomez|Quentin Brooks|Priya Nair|Tara Wilson,
+P_2006_061,2006,Nina Patel|Iris Gomez,
+P_2006_062,2006,Khan Ali|Eva Rossi,P_2003_011|P_2005_048
+P_2006_063,2006,Rita Flores|Nina Patel|Tara Wilson,
+P_2006_064,2006,Carla Santos|Eva Rossi,
+P_2006_065,2006,Sam Lee|Rita Flores|Eva Rossi,P_2003_009|P_2003_003|P_2004_020
+P_2006_066,2006,Bob Kumar|Laura Becker|Grace Park,P_2005_043
+P_2006_067,2006,Laura Becker|Rita Flores,P_2005_040|P_2005_048|P_2003_010
+P_2006_068,2006,Frank Lin|Tara Wilson,P_2003_002|P_2003_012|P_2005_048
+P_2007_069,2007,Nina Patel|Hank Miller|Iris Gomez,P_2003_014
+P_2007_070,2007,Bob Kumar|Priya Nair|Hank Miller,P_2006_059
+P_2007_071,2007,Jack Turner|Hank Miller|Sam Lee,
+P_2007_072,2007,Grace Park|Ming Zhou|Khan Ali|Iris Gomez,
+P_2007_073,2007,Laura Becker|Quentin Brooks|Ming Zhou,P_2003_004|P_2003_015
+P_2007_074,2007,Frank Lin|Sam Lee|Iris Gomez,
+P_2007_075,2007,Tara Wilson|Nina Patel,P_2005_041|P_2006_056
+P_2007_076,2007,Quentin Brooks|David Nguyen|Ming Zhou|Grace Park,P_2003_006|P_2006_056
+P_2007_077,2007,Quentin Brooks|Rita Flores,P_2005_047
+P_2007_078,2007,Carla Santos|Khan Ali|Sam Lee,
+P_2007_079,2007,Jack Turner|Quentin Brooks|Tara Wilson|Nina Patel,P_2006_052|P_2005_038
+P_2007_080,2007,Eva Rossi|Grace Park|Nina Patel|Ming Zhou,P_2005_039
+P_2007_081,2007,Rita Flores|Alice Chen|Jack Turner,P_2004_027|P_2006_056
+P_2007_082,2007,Tara Wilson|Khan Ali|Oscar Silva|Rita Flores,P_2004_028|P_2006_066|P_2006_061
+P_2007_083,2007,Frank Lin|Carla Santos|Jack Turner|Quentin Brooks,P_2003_012|P_2004_031
+P_2007_084,2007,Jack Turner|Hank Miller|Grace Park|Eva Rossi,
+P_2007_085,2007,Hank Miller|Priya Nair,
+P_2008_086,2008,Nina Patel|Sam Lee|Grace Park,P_2006_064|P_2006_052|P_2004_032
+P_2008_087,2008,Alice Chen|David Nguyen,P_2004_029|P_2004_023|P_2006_067
+P_2008_088,2008,Bob Kumar|Rita Flores|Hank Miller,
+P_2008_089,2008,Eva Rossi|Oscar Silva|Quentin Brooks,P_2006_057|P_2007_079
+P_2008_090,2008,Quentin Brooks|Nina Patel|Rita Flores|Oscar Silva,P_2006_061
+P_2008_091,2008,Iris Gomez|Hank Miller|Tara Wilson,P_2007_081|P_2004_031|P_2005_036
+P_2008_092,2008,Carla Santos|Jack Turner|Hank Miller,P_2005_043|P_2005_041
+P_2008_093,2008,Carla Santos|Eva Rossi|Sam Lee|Hank Miller,P_2004_020|P_2004_028|P_2003_009
+P_2008_094,2008,Nina Patel|Khan Ali|Rita Flores,P_2006_054|P_2003_008|P_2004_027
+P_2008_095,2008,Ming Zhou|Sam Lee|Alice Chen,P_2006_062|P_2003_001|P_2005_046
+P_2008_096,2008,Ming Zhou|Nina Patel|Rita Flores,P_2006_063
+P_2008_097,2008,Iris Gomez|Nina Patel,P_2003_004|P_2005_050|P_2005_044
+P_2008_098,2008,Ming Zhou|Frank Lin|Oscar Silva|Eva Rossi,
+P_2008_099,2008,Sam Lee|Tara Wilson|Alice Chen,
+P_2008_100,2008,Nina Patel|Eva Rossi|Oscar Silva|Frank Lin,
+P_2008_101,2008,Ming Zhou|Khan Ali|Grace Park,P_2005_042|P_2005_044|P_2005_049
+P_2008_102,2008,Nina Patel|Iris Gomez|Carla Santos,P_2003_003|P_2007_070|P_2003_007
+P_2009_103,2009,Hank Miller|Carla Santos|Bob Kumar,
+P_2009_104,2009,Grace Park|Alice Chen,P_2004_031
+P_2009_105,2009,Priya Nair|David Nguyen,P_2006_060
+P_2009_106,2009,Iris Gomez|Laura Becker|Frank Lin|David Nguyen,P_2005_040
+P_2009_107,2009,Sam Lee|Alice Chen,P_2007_074|P_2008_087
+P_2009_108,2009,Ming Zhou|Grace Park|Carla Santos,P_2003_014
+P_2009_109,2009,Jack Turner|David Nguyen|Bob Kumar|Laura Becker,P_2007_085|P_2005_048|P_2003_009
+P_2009_110,2009,Khan Ali|Alice Chen|Nina Patel|Priya Nair,
+P_2009_111,2009,Laura Becker|Oscar Silva|Eva Rossi,P_2004_023|P_2008_094|P_2006_067
+P_2009_112,2009,Iris Gomez|Rita Flores|Priya Nair|Oscar Silva,P_2008_094|P_2007_076|P_2005_035
+P_2009_113,2009,Hank Miller|Carla Santos|Iris Gomez,P_2004_032|P_2008_097|P_2006_060
+P_2009_114,2009,Tara Wilson|Ming Zhou|Khan Ali|Alice Chen,P_2005_042|P_2004_024|P_2006_063
+P_2009_115,2009,Laura Becker|Iris Gomez,P_2005_036|P_2007_077
+P_2009_116,2009,Iris Gomez|Rita Flores|Alice Chen|Quentin Brooks,P_2003_011
+P_2009_117,2009,Nina Patel|Priya Nair,P_2008_089
+P_2009_118,2009,Priya Nair|Oscar Silva|Alice Chen,
+P_2009_119,2009,Hank Miller|Ming Zhou|Tara Wilson,P_2007_085|P_2007_075
